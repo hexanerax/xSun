@@ -31,3 +31,9 @@ A watchOS app that shows where the sun is and where it's going, based on your lo
 - `PhaseView.swift`: sun phase and arc view
 - `DirectionView.swift`: compass and direction view
 - `SunManager.swift`: location and solar calculations
+
+## License
+
+MIT. See [LICENSE](LICENSE).
+
+To build to a device, set your own development team and bundle identifier in Xcode (Signing & Capabilities).
