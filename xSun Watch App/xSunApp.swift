@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct xSun_Watch_AppApp: App {
+struct xSunApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView()
         }
     }
 }
